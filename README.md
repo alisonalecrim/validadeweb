@@ -1,5 +1,5 @@
 # validadeweb
-Projeto para realização de auditoria de validade de produtos
+Projeto para realização de auditoria de validade de produtos - Algo breve e somente de testes
 
 A atividade foi desenvolvida para realizar auditoria de validade nas lojas do Dom Atacadista.
 Devido à falta de acesso ao BD original da empresa, foi criada uma forma de importar as informações pelo painel ADM.
